@@ -4,8 +4,6 @@
 
 性别：男
 
-电话：13072673724
-
 邮箱：b110mrjin@gmail.com
 
 专业：计算机科学与技术
@@ -35,11 +33,11 @@ Github：https://github.com/JinExcellent
 
 ## 教育背景
 
-河南开封科技传媒学院(本科)                    								                                               2022.9-2024.7
+
 
 ## 项目经历
 
-[微内核操作系统]([JinExcellent/MakeOwnSystem](https://github.com/JinExcellent/MakeOwnSystem)) （技术栈：C、x86汇编、GDB、QEMU、Makefile、git、shell）
+[微内核操作系统](https://github.com/JinExcellent/MakeOwnSystem) （技术栈：C、x86汇编、GDB、QEMU、Makefile、git、shell）
 
 **项目简介**：参考书籍《30天自制操作系统》和OSdev论坛，在**Linux**平台下完成一个微内核操作系统，运行在x86架构下，在QEMU虚拟机上启动并调试。内核使用汇编和C语言编写，涵盖从Bootloader到多任务调度的完整操作系统核心模块。
 
@@ -54,7 +52,7 @@ Github：https://github.com/JinExcellent
 - 设计系统调用接口与用户交互机制，构建 **图形界面** 和基本窗口系统
 - 使用 **QEMU + GDB** 进行内核远程调试，编写 Makefile 实现自动化构建流程
 
-[轻量级WebServer服务器]([JinExcellent/WebServe_test](https://github.com/JinExcellent/WebServe_test))  （技术栈：C/C++，POSIX API、网络编程API、MySQL、Makefile、git、Shell、GDB）
+[轻量级WebServer服务器](https://github.com/JinExcellent/WebServe_test)  （技术栈：C/C++，POSIX API、网络编程API、MySQL、Makefile、git、Shell、GDB）
 
 项目简介：参考书籍《高性能服务器编程》，
 
