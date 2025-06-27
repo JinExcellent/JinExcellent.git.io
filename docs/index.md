@@ -19,7 +19,8 @@ Github：https://github.com/JinExcellent
 - 熟悉常用的**POSIX**标准**系统编程API**（进程、线程、**信号**、**条件变量**、互斥锁、文件I/O）；**网络编程API**（socket 、**I/O复用**）；
 - 熟悉**Linux**平台下的**开发工具链**：Vim、Vim-plug、Ctags、Makefile、Shell、Git、Gcc、Nasm、Tmux、Qemu、GDB（具备**多线程**和**Qemu裸机**调试的能力）；
 - 熟悉常用的几种**单例模式**（局部静态变量方式、裸指针方式-饿汉式、智能指针方式-懒汉式、通用单例模板类CRTP）；
-- 会使用**MySQL**数据库语言以及常用的API，了解Redis；
+- 会使用 **Qt** （信号槽、QWidget、QLayout、QPainter、QTimer 等常用类）；
+- 会使用**MySQL**数据库语言以及常用的API；
 - 熟悉常用**X86**汇编指令；
 - 常通过国内外社区和论坛了解技术难题和最新技术动向，如**Stack Overflow**、Reddit、**OSdev**、OpenGroup等；
 
@@ -37,7 +38,7 @@ Github：https://github.com/JinExcellent
 
 [微内核操作系统](https://github.com/JinExcellent/MakeOwnSystem) （技术栈：C、x86汇编、GDB、QEMU、Makefile、git、shell）
 
-**项目简介**：参考书籍《30天自制操作系统》和OSdev论坛，实现一个微内核操作系统，运行在**x86**架构下，在QEMU虚拟机上启动并调试。内核使用汇编和C语言编写，涵盖从Bootloader到多任务调度的操作系统内核模块。
+**项目简介**：实现一个微内核操作系统，运行在**x86**架构下，在QEMU虚拟机上启动并调试。内核使用汇编和C语言编写，涵盖从Bootloader到多任务调度的操作系统内核模块。
 
 主要工作：
 
@@ -54,7 +55,7 @@ Github：https://github.com/JinExcellent
 
 [轻量级Web服务器](https://github.com/JinExcellent/WebServe_test)  （技术栈：C/C++，POSIX API、网络编程API、MySQL、Makefile、git、Shell、GDB）
 
-**项目简介：**参考书籍《高性能服务器编程》，在Linux平台下实现一个轻量级Web服务器。支持**Reactor**和**模拟Proactor**两种事件处理模式，使用**线程池**、**非阻塞I/O**和**epoll**，支持**GET**和**POST**报文解析。用户端访问时，可以进行注册、登录，请求图片和视频文件。
+**项目简介：在Linux平台下实现一个轻量级Web服务器。支持**Reactor**和**模拟Proactor**两种事件处理模式，使用**线程池**、**非阻塞I/O**和**epoll**，支持**GET**和**POST**报文解析。用户端访问时，可以进行注册、登录，请求图片和视频文件。
 
 主要工作：
 
