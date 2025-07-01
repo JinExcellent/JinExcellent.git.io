@@ -14,7 +14,7 @@ Github：https://github.com/JinExcellent
 
 ## 专业技能
 
-- 熟练使用C/C++（**OOP、泛编程、STL**），C++高级特性（**Lambd表达式、Function、智能指针、变参模板、模板折叠、万能引用和原样转发**）；
+- 熟练使用C/C++（**OOP、泛编程、STL**），C++高级特性（**Lambd表达式、Function、智能指针、万能引用和原样转发、右值引用和移动语义**）；
 - 熟练掌握计算机操作系统（**进程与线程、虚拟内存管理、文件系统管理**）；常用网络协议（**IP、ARP、DHCP、TCP/UDP、HTTP**）；计算机组成原理（数据表示、**Cache工作原理**、指令系统、数据通路、指令流水线、**异常和中断机制**、I/O通信）、数据结构（**二叉树、图、常用排序与查找算法**）的理论知识；
 - 熟悉常用的**POSIX**标准**系统编程API**（进程、线程、**信号**、**条件变量**、互斥锁、文件I/O）；**网络编程API**（socket 、**I/O复用**）；
 - 熟悉**Linux**平台下的**开发工具链**：Vim、Vim-plug、Ctags、Makefile、Shell、Git、Gcc、Nasm、Tmux、Qemu、GDB（具备**多线程**和**Qemu裸机**调试的能力）；
@@ -28,11 +28,11 @@ Github：https://github.com/JinExcellent
 
 - ##### 阅读过的技术书目
 
-《C Primer Plus》《C++ Primer Plus》《C++ Primer》《Unix环境高级编程》《TCP/IP网络编程》《高性能服务器编程》《Unix网络编程》《Operating Systems: Three Easy Pieces》《程序员的自我修养》《深入设计模式》《鸟哥的Linux私房菜》
+《C Primer Plus》《C++ Primer Plus》《C++ Primer》《Unix环境高级编程》《TCP/IP网络编程》《高性能服务器编程》《Unix网络编程》《Operating Systems: Three Easy Pieces》《程序员的自我修养》《鸟哥的Linux私房菜》
 
 - #####  做过的一些练习
 
-**线程安全智能指针**、使用**C++高级特性**实现的异步日志系统和**任务管理**系统、实现Deque和map（使用普通二叉树）、**Unordermap**（使用哈希表）、学习**MIT6.1810**（XV6-RISC-V）
+**线程安全智能指针**、使用**C++高级特性**实现的异步日志系统和**任务管理**系统、实现Deque和map（使用普通二叉树）、学习**MIT6.1810**（XV6-RISC-V）
 
 ## 项目经历
 
