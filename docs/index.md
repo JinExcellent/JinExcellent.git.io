@@ -55,7 +55,7 @@ Github：https://github.com/JinExcellent
 
 [轻量级Web服务器](https://github.com/JinExcellent/WebServe_test)  （技术栈：C/C++，POSIX API、网络编程API、MySQL、Makefile、git、Shell、GDB）
 
-**项目简介：在Linux平台下实现一个轻量级Web服务器。支持**Reactor**和**模拟Proactor**两种事件处理模式，使用**线程池**、**非阻塞I/O**和**epoll**，支持**GET**和**POST**报文解析。用户端访问时，可以进行注册、登录，请求图片和视频文件。
+**项目简介**：在Linux平台下实现一个轻量级Web服务器。支持**Reactor**和**模拟Proactor**两种事件处理模式，使用**线程池**、**非阻塞I/O**和**epoll**，支持**GET**和**POST**报文解析。用户端访问时，可以进行注册、登录，请求图片和视频文件。
 
 主要工作：
 
